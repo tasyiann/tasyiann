@@ -15,4 +15,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
-          
+          plugin_rss: yes
+          plugin_rss_source: https://500px.com/ayiann/rss  # RSS feed
+          plugin_rss_limit: 3                              # Limit to 6 items
