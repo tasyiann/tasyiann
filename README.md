@@ -2,3 +2,14 @@
 
 
 
+<table>
+  <td align="center">
+    <details open><summary>Recent activity charts</summary>
+      <img src="https://github.com/tasyiann/tasyiann/blob/master/metrics.plugin.habits.charts.svg">
+    </details>
+    <details open><summary>Midly interesting facts</summary>
+      <img src="https://github.com/tasyiann/tasyiann/blob/master/metrics.plugin.habits.facts.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
