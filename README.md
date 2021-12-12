@@ -3,7 +3,8 @@
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/tasyiann/tasyiann/blob/main/metrics-left.svg">](#)
 
-<!-- [<img align="right" width="390" alt="🦑" src="https://github.com/tasyiann/tasyiann/blob/main/metrics-right.svg">](#) -->
+[<img align="center" width="200" alt="🦑" src="https://github.com/tasyiann/tasyiann/blob/main/rickroll-discord-background.gif">](#)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer&desc=I%20like%20to%20learn,%20to%20explore,%20to%20question,%20to%20create.&descSize=18&descAlignY=76)
