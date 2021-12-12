@@ -10,11 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: tasyiann/metrics@master
+      - name: Personal metrics (left)
+        uses: tasyiann/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
           plugin_isocalendar: yes
+
+      - name: Personal metrics (right)
+        uses: tasyiann/metrics@master
+        with:
+          filename: personal.svg
+          token: NOT_NEEDED
           plugin_rss: yes
           plugin_rss_source: https://500px.com/ayiann/rss  # RSS feed
           plugin_rss_limit: 3                              # Limit to 6 items
+          
+
