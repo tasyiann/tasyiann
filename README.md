@@ -5,9 +5,6 @@
 
 <div align="center">
     </br>
-    </br>
-    </br>
-    </br>
     <code align="center">
         I'm just ✨ <i>vibing</i> ✨ with the world 
     </code>
@@ -19,7 +16,12 @@
     </br>
     </br>
     <code align="center">
-        and
+        in Python, C#, Java, C, MATLAB
+    </code>
+    </br>
+    </br>
+    <code align="center">
+        while
     </code>
     </br>
     </br>
@@ -30,6 +32,16 @@
     </br>
     <code align="center">
         AI & Motion Capture
+    </code>
+    </br>
+    </br>
+    <code align="center">
+        and doing some
+    </code>
+    </br>
+    </br>
+    <code align="center">
+        web full-stack (MVC) work
     </code>
 </div>
 
