@@ -1,1 +1,1 @@
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&section=header&text=&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=35&desc=A%20Research%20Engineer%20based,%20in%20Germany.&descSize=15&descAlignY=35">](#)
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&section=header&text=&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=35&desc=A%20Research%20Engineer%20based%20in%20Germany.&descSize=15&descAlignY=35">](#)
